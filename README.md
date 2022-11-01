@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @matan99
-- 👀 I’m interested in Aeronautical Egnineering, machine learning and AI
+- 👀 I’m interested in Aeronautical Engineering, machine learning and AI
 - 🌱 I’m currently studying Aeronautical Engineering at Imperial College
 
 
